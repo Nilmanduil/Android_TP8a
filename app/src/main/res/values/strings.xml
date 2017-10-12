@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_TP8a</string>
+    <string name="sendSMS">Envoyer SMS</string>
+    <string name="callNumber">Appeler le numéro</string>
+</resources>
